@@ -28,20 +28,41 @@ I focus on **reliability, performance and clean architecture**, leveraging **AWS
 
 ### 🛠️ Tech Stack
 
-#### 💾 Backend & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,aws,docker,linux,postgresql,mysql,mongodb,redis" />
-</p>
-
-#### 🧰 Frontend & Mobile
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,laravel,flutter,html,css,tailwind,figma,vite,git,github,vscode" />
-</p>
-
-#### ☁️ Cloud & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,kubernetes,terraform" />
-</p>
+<table>
+<tr>
+  <td>
+ <h3> Mobile</h3>
+<div>
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" />
+  <img src="https://skillicons.dev/icons?i=ktor" height="40" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" />
+  <img src="https://skillicons.dev/icons?i=apple" height="40" />
+   <img src="https://skillicons.dev/icons?i=java" height="40" />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" />
+  <img src="https://skillicons.dev/icons?i=swift" height="40" />
+   <img src="https://skillicons.dev/icons?i=firebase" height="40" />
+</div>
+  </td>
+  <td>
+  <h3> Back-end</h3>
+<div>
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" />
+   <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
+  <img src="https://skillicons.dev/icons?i=mongo" height="40" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" />
+</div>
+  </td>
+</tr>
+</table>
 
 ---
 
