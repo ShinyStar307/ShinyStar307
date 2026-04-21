@@ -25,6 +25,23 @@ I focus on **reliability, performance and clean architecture**, leveraging **AWS
 > 🧠 “Code isn’t just logic — it’s architecture, design and innovation combined.”
 
 ---
+## 📊 Welcome to my GitHub!
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davigomesflorencio&theme=tokyonight" /></a>
+</td>
+<td>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shinystar307&theme=tokyonight" /></a>
+</td>
+</tr>
+
+</table>
+
+</div>
 
 ### 🛠️ Tech Stack
 
