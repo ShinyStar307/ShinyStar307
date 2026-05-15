@@ -67,8 +67,8 @@ I focus on **reliability, performance and clean architecture**, leveraging **AWS
 ### 📫 Contact Me
 
 <p align="center">
-  <a href="mailto:superioritstar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="mailto:superioritstar@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>
+  <a href="mailto:super.crock3007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:shinystar307@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>
 </p>
 
 ---
