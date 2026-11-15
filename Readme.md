@@ -1,6 +1,6 @@
 <!-- Elegant Typing Intro -->
 <div align="center">
-  <img src="https://github.com/ShinyStar307/ShinyStar307/blob/mainst/profile-header.svg/profile-header.svg"/>
+  <img src="https://github.com/ShinyStar307/ShinyStar307/blob/mainst/header.svg/profile-header.svg"/>
 </div>
 <div align="center">
   <img src="https://github.com/ShinyStar307/ShinyStar307/blob/mainst/header.svg/ai-specialization.svg"/>
