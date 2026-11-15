@@ -1,9 +1,9 @@
 <!-- Elegant Typing Intro -->
 <div align="center">
-  <img src="https://github.com/shinystar307/shinystar307/blob/main/profile-header.svg/profile-header.svg"/>
+  <img src="https://github.com/ShinyStar307/ShinyStar307/blob/mainst/profile-header.svg/profile-header.svg"/>
 </div>
 <div align="center">
-  <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/header.svg/ai-specialization.svg"/>
+  <img src="https://github.com/ShinyStar307/ShinyStar307/blob/mainst/header.svg/ai-specialization.svg"/>
 </div>
 
 ---
@@ -34,7 +34,7 @@ I focus on **reliability, performance and clean architecture**, leveraging **AWS
 <table border="0" cellspacing="0" cellpadding="5">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/header.svg/github-stats.svg" />
+      <img src="https://github.com/ShinyStar307/ShinyStar307/blob/mainst/header.svg/github-stats.svg" />
     </td>
    
   </tr>
@@ -45,7 +45,7 @@ I focus on **reliability, performance and clean architecture**, leveraging **AWS
 ## 💻 Spent My Time
 
 <div align="center">
-  <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/header.svg/spent-my-time.svg" />
+  <img src="https://github.com/ShinyStar307/ShinyStar307/blob/mainst/header.svg/spent-my-time.svg" />
 </div>
 
 ![](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
@@ -89,7 +89,7 @@ I'm actively looking for **Data Visualization**, **Data Analysis**, **Machine Le
 ---
 
 <div align="center">
-  <img src="https://github.com/shahidazam2020-oss/shahidazam2020-oss/blob/main/header.svg/footer-expertise.svg"/>
+  <img src="https://github.com/ShinyStar307/ShinyStar307/blob/mainst/header.svg/footer-expertise.svg"/>
 </div>
 
 ---
